@@ -1,0 +1,7 @@
+/nbproject/
+/application/nbproject/
+/application/config/database.php
+/application/config/config.php
+index.html
+nbproject
+node_modules
